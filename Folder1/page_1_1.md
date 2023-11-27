@@ -2,4 +2,4 @@
 Page 1_1
 
 
-![](Rose.jpeg)
+![](assets/Rose.jpeg)
