@@ -1,6 +1,3 @@
-# fpna42.github.io
-
-
 ## Section 1
 
 - [root page](Root_Page.md)
